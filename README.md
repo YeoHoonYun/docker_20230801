@@ -9,9 +9,11 @@ git commit -m "test"
 ### 레포지토리에 넣는 부분
 git push
 
-git pull
-
+### 기존 브런치에 환경을 다시 재설정 하는 부분
 git reset --hard
+
+### 레포지토리에서 데이터를 가지고 오는 부분
+git pull
 
 ### 브런치 환경 체크
 git branch
